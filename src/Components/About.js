@@ -14,14 +14,17 @@ const About = ({ data }) => {
     var resumeDownload = data.resumedownload;
   }
 
+
+  console.log('profilepic', profilepic);
+  
   return (
     <section id="about">
       <div className="row">
         <div className="three columns">
           <img
             className="profile-pic"
-            src={profilepic}
-            alt="Sonny's Profile Pic"
+            src="http://localhost:3000/images/profilgibliepic.png"
+            alt="Christopher Profile Pic"
           />
         </div>
         <div className="nine columns main-col">

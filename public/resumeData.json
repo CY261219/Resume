@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Christopher Ray Manurung",
+    "occupation": "Front End Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "profilgibliepic.png",
+    "bio": "Hi there! I'm a Front End Developer with expertise in building modern web applications using React.js and TypeScript. Currently working at PT United Tractors, I specialize in developing enterprise-level systems with focus on user experience and responsive design. I have hands-on experience in implementing real-time tracking features and working with complex data management in Agile environments. My technical stack includes React.js, TypeScript, TanStack Table, and Zustand for state management. I'm passionate about creating efficient, scalable, and user-friendly web applications that solve real business problems.",
+    "contactmessage": "Get in touch with me to be a business partner!",
+    "email": "christopher2019manurung@gmail.com",
+    "phone": "082166837880",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Jl raya Kayu Tinggi",
+      "city": "Jakarta Timur",
+      "state": "DKI Jakarta",
+      "zip": "xxx xxx"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/ray.manurung.547?locale=id_ID",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/christopher-ray-manurung-6706b9221",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/chriss__t_0/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/CY261219",
         "className": "fa fa-github"
       }
     ]
@@ -48,28 +43,28 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "school": "Raja Ali Haji Maritime University - Tanjungpinang",
+        "degree": "Bachelor's Degree, Informatics Engineering",
+        "graduated": "Mar 2023",
         "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "PT United Tractors",
+        "title": "Front End Developer",
+        "years": "May 2023 - Present",
+        "description": "Designed and developed a web-based system for heavy equipment service management using React.js, TypeScript, and modern state management. Implemented responsive features and real-time tracking in an Agile team environment"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "75%"
       },
       {
         "name": "Git",
@@ -77,11 +72,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "85%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "90%"
       }
     ]
   },
@@ -110,12 +105,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Chris is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Kevin Sinaga"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Chris has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Fitra Wahyudi"
       }
     ]
   }
